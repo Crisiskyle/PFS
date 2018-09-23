@@ -1,0 +1,35 @@
+{
+	"name": [
+		"Casandra",
+		"Stephanie",
+		"Valerie",
+		"Rachel"
+	],
+	"origin": [
+		"#name# the #age# year old #occupation# ,never thought she would get #activate# by eating #Fruit#!"
+	],
+	"age": [
+		"45",
+		"65",
+		"34",
+		"30",
+		"17"
+	],
+	"occupation": [
+		"retail associate",
+		"Server",
+		"Model"
+	],
+	"activate": [
+		"super powers",
+		"rich",
+		"hairloss"
+	],
+	"Fruit": [
+		"raspberrys",
+		"lemons",
+		"apples",
+		"cheetos",
+		"broccoli"
+	]
+}
